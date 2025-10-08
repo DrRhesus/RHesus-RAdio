@@ -23,7 +23,7 @@ I mean Line of Code..
 
  93/93
 
-https://www.tiktok.com/@xthetrinchox/video/7364123772636466465
+
 
 [![Watch on TikTok](https://img.shields.io/badge/▶️%20Watch%20on%20TikTok-black?logo=tiktok)](https://www.tiktok.com/@xthetrinchox/video/7381116628525731104)
 
