@@ -24,3 +24,7 @@ I mean Line of Code..
  93/93
 
 https://www.tiktok.com/@xthetrinchox/video/7364123772636466465
+
+[![The Bitcho demo](demo.gif)](https://www.tiktok.com/@xthetrinchox/video/7381116628525731104)
+
+?is_from_webapp=1&sender_device=pc&web_id=7558864156407154198
