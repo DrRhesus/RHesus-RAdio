@@ -25,6 +25,5 @@ I mean Line of Code..
 
 https://www.tiktok.com/@xthetrinchox/video/7364123772636466465
 
-[![The Bitcho demo](demo.gif)](https://www.tiktok.com/@xthetrinchox/video/7381116628525731104)
+[![Watch on TikTok](https://img.shields.io/badge/▶️%20Watch%20on%20TikTok-black?logo=tiktok)](https://www.tiktok.com/@xthetrinchox/video/7381116628525731104)
 
-?is_from_webapp=1&sender_device=pc&web_id=7558864156407154198
